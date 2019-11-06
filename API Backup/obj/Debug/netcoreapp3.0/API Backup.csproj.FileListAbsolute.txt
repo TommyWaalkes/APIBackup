@@ -1,0 +1,11 @@
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\bin\Debug\netcoreapp3.0\API Backup.exe
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\bin\Debug\netcoreapp3.0\API Backup.deps.json
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\bin\Debug\netcoreapp3.0\API Backup.runtimeconfig.json
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\bin\Debug\netcoreapp3.0\API Backup.runtimeconfig.dev.json
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\bin\Debug\netcoreapp3.0\API Backup.dll
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\bin\Debug\netcoreapp3.0\API Backup.pdb
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\obj\Debug\netcoreapp3.0\API Backup.csprojAssemblyReference.cache
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\obj\Debug\netcoreapp3.0\API Backup.AssemblyInfoInputs.cache
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\obj\Debug\netcoreapp3.0\API Backup.AssemblyInfo.cs
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\obj\Debug\netcoreapp3.0\API Backup.dll
+C:\Users\Tommy\Desktop\API Backup\API Backup\API Backup\obj\Debug\netcoreapp3.0\API Backup.pdb
